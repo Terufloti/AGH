@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Szybkosc_Petli_Glownej.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Kapcer\Desktop\Uczelnia\Semestr VI\GK\Speed_of_main\Speed_of_main\Source.cpp(336,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kapcer\Desktop\Uczelnia\Semestr VI\GK\Speed_of_main\Speed_of_main\Source.cpp(337,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kapcer\Desktop\Uczelnia\Semestr VI\GK\Speed_of_main\Speed_of_main\Source.cpp(340,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kapcer\Desktop\Uczelnia\Semestr VI\GK\Speed_of_main\Speed_of_main\Source.cpp(341,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kapcer\Desktop\Uczelnia\Semestr VI\GK\Speed_of_main\Speed_of_main\Source.cpp(343,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kapcer\Desktop\Uczelnia\Semestr VI\GK\Speed_of_main\Speed_of_main\Source.cpp(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Szybkosc_Petli_Glownej.vcxproj -> C:\Users\Kapcer\Desktop\Uczelnia\Semestr VI\GK\Speed_of_main\x64\Debug\Speed_of_main.exe

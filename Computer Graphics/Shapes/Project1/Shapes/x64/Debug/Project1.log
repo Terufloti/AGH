@@ -1,0 +1,4 @@
+﻿  glad.c
+  Source.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project1.vcxproj -> C:\Users\Kapcer\Desktop\Uczelnia\Semestr VI\GK\Shapes\Project1\x64\Debug\Project1.exe
