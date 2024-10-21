@@ -1,0 +1,31 @@
+.container-center-register-success {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.text-center-register-success {
+    padding: 2%;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#mycalendar {
+    width: 100%;
+    height: 50%;
+    margin-bottom: 20px;
+}
+.fc-timegrid-slots td,
+.fc-timegrid-slots td div {
+  height: 2.84em;
+}
+
+.fc-timegrid-slots td.fc-minor {
+  height: 0.5em;
+}
+
+.fc-timegrid-axis.fc-scrollgrid-sync-inner,
+.fc-timegrid-slots td.fc-major div {
+  height: 100%;
+}
