@@ -8,3 +8,5 @@
 ##### Internet Engineering - this catalog contains simple Todo List project, made during course, implementing Frontend in Vite + React + TypeScript + Bootstrap technologies, Backend in TS + NestJS technologies, simple Basic + JWT Authorization, database in Prisma ORM. 
 
 ##### FEM - this catalog contains two programs made for Finite element method course - both written in C++ with Eigen library. It is basically math with C++.
+
+##### BSc Thesis - this catalog contains work made on getting BSc degree implementing simple obstacle avoidance system for FPV drones (read readme for more info)
