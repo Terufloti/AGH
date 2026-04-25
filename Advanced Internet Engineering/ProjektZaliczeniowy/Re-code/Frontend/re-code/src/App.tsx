@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>Horsepower Selector</div>
+    <div>W sumie to po inicie...</div>
   );
 }
 
